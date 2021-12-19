@@ -6,14 +6,19 @@ The proposed system is an automated library management system in C language. Thr
 Librarian features:
 
 •	Add/View/Edit/Delete books.
+
 •	View/Edit/Delete student information.
+
 •	Search for a specific book.
+
 •	View book requests.
 
 Student features:
 
 •	View/Borrow/Return books.
+
 •	View/Edit information about them.
+
 •	Request specific book.
 
  
